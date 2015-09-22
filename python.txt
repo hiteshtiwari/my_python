@@ -1,0 +1,31 @@
+mvc  model
+
+m database
+v view 
+c controller
+
+client services 
+fentinal module insurance company  hospital information store... 
+fetch the data from databse ad send the message 
+controller will fetch the persons whii have not come for the checkup so contoller will send the reminder .
+
+creteria,rule,  rule set , action 
+
+idebtity the ppl who smoke 5 cigrete who are under 40 yrs age... past desease
+
+trigger the rule set ...
+
+creterial create and action create and attach to the rule and rule set ...
+
+
+batch create and realtime run thr action..
+
+coding base..
+:
+gui click...
+controller file--method..-age fiind- model(database)-model file outpput- contoller file - wriitten output 
+
+zope-framework... it is product which we were using past 14 yrs.. that time dtml.. zsql
+
+python work..
+
